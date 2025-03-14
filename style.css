@@ -9,12 +9,12 @@
 body{
     height: 100vh;
     box-sizing: border-box;
-    background-color: #000000;
-    color: #F6F6F6;
+    background-color: #E2E0C8;
+    color: #5C7285;
 }
 
 .titulo-destaque{
-    color: #22D4FD;
+    color: #818C78;
 }
 
 .apresentacao{
